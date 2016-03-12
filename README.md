@@ -23,4 +23,4 @@ Se Não:
 
 fim de Se;
 
-Após o termino da Luta o resultado com os dados do ganhador são mostrados e novamente é apresentado ao jogador o menu inicial. Agora, para poder recomeçar a luta o Usuário precisa restalrar a vida dos seus Guerrerios e para isso é apresentada a opção "Alimentar um Guerreiro", o jogo se encerra quando o Usuário excolher a opção "Exit" no menu principal;	
+Após o termino da Luta o resultado com os dados do ganhador são mostrados e novamente é apresentado ao jogador o menu inicial. Agora, para poder recomeçar a luta o Usuário precisa restalrar a vida dos seus Guerrerios e para isso é apresentada a opção "Alimentar um Guerreiro". O jogo se encerra quando o Usuário excolher a opção "Exit" no menu principal;	
