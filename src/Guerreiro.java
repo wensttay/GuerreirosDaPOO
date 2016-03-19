@@ -37,7 +37,7 @@ public class Guerreiro {
 		
 		private void decremento(){
 			if (energia > 0) {energia--;}
-			else {System.out.println("O Guerreiro "+ nome +" está sem Energia !");}
+			else {System.out.println("O Guerreiro "+ nome +" estÃ¡ sem Energia !");}
 		}
 		
 		private int atacar(){
