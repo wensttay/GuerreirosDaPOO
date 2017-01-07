@@ -1,9 +1,11 @@
+package br.edu.ifpb.ads.poo.guerreiros;
+
 
 import java.util.Scanner;
 
 /**
  * @version 1.0
- * @author wensttay <yattsnew@gmail.com>
+ * @author Wensttay de Sousa Alencar <yattsnew@gmail.com>
  * @date 07/01/2017 - 12:01:31
  */
 public class Play {
